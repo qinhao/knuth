@@ -7,7 +7,7 @@ import (
 
 var head = `#cover
   h1.book-title Knuth Interview 2006
-  h2.author by Donald Ervin Knuth
+  h2.author by Donald E. Knuth
 
 `
 
