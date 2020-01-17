@@ -38,7 +38,7 @@ func main() {
 	)
 
 	var content = head
-	for i := 1; i <= chapterNums; i++ {
+	for i := 0; i <= chapterNums; i++ {
 		content += fmt.Sprintf(temp, i)
 	}
 	content += foot
