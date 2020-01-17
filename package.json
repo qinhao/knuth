@@ -1,0 +1,28 @@
+{
+  "name": "knuth",
+  "version": "1.0.0",
+  "description": "Generate [Donald Knuth Interview 2006](https://github.com/kragen/knuth-interview-2006) transcript to a book, powered by [ReLaxed](https://github.com/RelaxedJS/ReLaXed).",
+  "main": "generate.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "puppeteer": "^2.0.0",
+    "relaxedjs": "^0.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinhao/knuth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinhao/knuth/issues"
+  },
+  "homepage": "https://github.com/qinhao/knuth#readme"
+}

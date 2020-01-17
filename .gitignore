@@ -2,3 +2,7 @@
 main
 main.exe
 knuth
+node_modules
+package-lock.json
+knuth-interview-2006
+knuth-interview-2006.zip
